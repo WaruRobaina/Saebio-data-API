@@ -7,4 +7,4 @@ La API consta de dos funciones:
 
 Esta API debe estar desplegada localmente en el puerto 4567.
 
-El trabajo completo tambien debe añadir el uso de una [GUI](https://github.com/WaruRobaina/saebio-gui.git) y un [cuadro de mando](https://github.com/WaruRobaina/saebio-metabase-dashboard.git) .
+El trabajo completo tambien debe añadir el uso de una [GUI](https://github.com/WaruRobaina/saebio-gui.git) , un [cuadro de mando](https://github.com/WaruRobaina/saebio-metabase-dashboard.git) y la [base de datos](https://github.com/WaruRobaina/saebio-database.git) .
